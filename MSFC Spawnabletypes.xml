@@ -122,16 +122,10 @@ above the optics to "0.2" means every M4A1 that spawns has a 20% chance of getti
 			<item name="MSFC_AK12_Mag_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="" chance="1.00" />
+			<item name="ReflexOptic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="" chance="1.00" />
+			<item name="MSFC_PBS4_Suppressor" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="MSFC_AK12MR">
@@ -139,50 +133,32 @@ above the optics to "0.2" means every M4A1 that spawns has a 20% chance of getti
 			<item name="MSFC_AK12_Mag_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="" chance="1.00" />
+			<item name="ReflexOptic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="" chance="1.00" />
+			<item name="MSFC_PBS4_Suppressor" chance="1.00" />
 		</attachments>
 	</type>
-	<type name="MSFC_AK15MR_Desert">
+	<type name="MSFC_AK12MR_Desert">
 		<attachments chance="1.00">
 			<item name="MSFC_AK12_Mag_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="" chance="1.00" />
+			<item name="ReflexOptic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="" chance="1.00" />
+			<item name="MSFC_PBS4_Suppressor" chance="1.00" />
 		</attachments>
 	</type>
-	<type name="MSFC_AK15MR_Green">
+	<type name="MSFC_AK12MR_Green">
 		<attachments chance="1.00">
 			<item name="MSFC_AK12_Mag_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="" chance="1.00" />
+			<item name="ReflexOptic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="" chance="1.00" />
+			<item name="MSFC_PBS4_Suppressor" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="MSFC_AK13M">
@@ -190,16 +166,10 @@ above the optics to "0.2" means every M4A1 that spawns has a 20% chance of getti
 			<item name="Mag_AK101_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="" chance="1.00" />
+			<item name="ReflexOptic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="" chance="1.00" />
+			<item name="MSFC_PBS4_Suppressor" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="MSFC_AK15">
@@ -225,6 +195,28 @@ above the optics to "0.2" means every M4A1 that spawns has a 20% chance of getti
 		</attachments>
 	</type>
 	<type name="MSFC_AK15MR">
+		<attachments chance="1.00">
+			<item name="MSFC_AK15_Mag_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ReflexOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MSFC_PBS4_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="MSFC_AK15MR_Desert">
+		<attachments chance="1.00">
+			<item name="MSFC_AK15_Mag_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ReflexOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MSFC_PBS4_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="MSFC_AK15MR_Green">
 		<attachments chance="1.00">
 			<item name="MSFC_AK15_Mag_30Rnd" chance="1.00" />
 		</attachments>
